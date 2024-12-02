@@ -1,1 +1,2 @@
 # Anomaly-Detection
+This project focuses on detecting anomalies in system metrics using machine learning. It generates synthetic data mimicking real-world metrics like CPU usage, memory, and battery levels, introducing artificial anomalies for testing. The implementation includes preprocessing, data visualization, and applying models such as Isolation Forest, LOF, and Prophet for anomaly detection. Results are visualized using interactive plots for comprehensive analysis.
